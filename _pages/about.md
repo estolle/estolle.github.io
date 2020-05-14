@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Eckart Stolle - Comparative Genomics Lab @ ZFMK"
+title: "Comparative Genomics Lab @ ZFMK"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
