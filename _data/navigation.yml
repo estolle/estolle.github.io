@@ -9,24 +9,17 @@ main:
 
   - title: "Team"
     url: /team/ 
-    
- # - title: "Images"
- #   url: /portfolio/
-        
-  - title: "news"
-    url: /news/
+
+#  - title: "news"
+#    url: /news/
  
-  - title: "Blog Posts"
-    url: /posts/
+#  - title: "Blog Posts"
+#    url: /posts/
 
   - title: "CV"
     url: /cv/
   
   - title: "Teaching"
     url: /teaching/
-
-  #- title: "Guide"
-  #  url: /markdown/
-  
-  #- title: "Talks"
-  #  url: /talks/
+  - title: "ZFMK"
+    url: https://www.zfmk.de/en/zfmk/eckart-stolle

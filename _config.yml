@@ -211,7 +211,7 @@ defaults:
       author_profile: true
   # _research
   - scope: 
-      path: ""
+      path: "/research/"
       type: research
     values: 
       layout: single
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # Team
   - scope: 
-      path: ""
+      path: "/team/"
       type: team
     values: 
       layout: single
@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _teaching
   - scope:
-      path: ""
+      path: "/teaching/"
       type: teaching
     values:
       layout: single
@@ -238,7 +238,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "/publications/"
       type: publications
     values:
       layout: single
@@ -247,8 +247,8 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
-      type: portfolio
+      path: "/cv/"
+      type: cv
     values:
       layout: single
       author_profile: true
@@ -265,7 +265,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
