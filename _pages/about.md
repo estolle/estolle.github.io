@@ -13,4 +13,4 @@ redirect_from:
 * We are located at the ZFMK (Zoological Research Museum Alexander Koenig) in Bonn (Germany), the Leibniz Institute of Animal Biodiversity: Section Comparative Insect Genomics.
 
 
-![alt text](/images/ek.apiary2.jpeg "Honeybee work")
+![alt text](/images/ek.apiary2.JPG "Honeybee work")
