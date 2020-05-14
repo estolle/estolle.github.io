@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. rer. nat. E. Stolle"
+  name             : "Stolle Lab"
   avatar           : "/images/ek.biopic.jpg"
-  bio              : "Head of Section: Comparative Insect Genomics @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
+  bio              : "Comparative Insect Genomics Section @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
   location         : "Bonn, Germany"
   employer         :
   pubmed           : 
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-#publons : https://publons.com/researcher/491512/eckart-stolle/metrics/
 
 
 # Reading Files
@@ -176,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -185,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,6 +209,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope: 
+      path: ""
+      type: research
+    values: 
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # Team
+  - scope: 
+      path: ""
+      type: team
+    values: 
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -237,14 +254,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
