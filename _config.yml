@@ -9,6 +9,8 @@
 locale                   : "en-US"
 title                    : "Stolle Lab"
 title_separator          : "-"
+logo: "/images/mstile-150x150.png"
+masthead_title: "Comp Genomix"
 name                     : &name "Eckart Stolle"
 description              : &description "Lab website"
 url                      : https://estolle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -118,7 +120,7 @@ author:
   wikipedia        :
 
 
-logo: "/assets/images/88x88.png"
+
 
 
 # Reading Files
