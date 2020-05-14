@@ -1,25 +1,19 @@
-16 sloc) 351 Bytes
 # main links links
 main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Research"
-#    url: /research/    
-
-#  - title: "Team"
-#    url: /team/ 
-
-#  - title: "news"
-#    url: /news/
- 
-#  - title: "Blog Posts"
-#    url: /posts/
-
+  - title: "Research"
+    url: /research/    
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
     url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
   
   - title: "Teaching"
-    url: /teaching/
-  - title: "ZFMK"
-    url: https://www.zfmk.de/en/zfmk/eckart-stolle
+    url: /teaching/    
