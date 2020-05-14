@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "E Stolle Comparative Genomics Lab @ ZFMK"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Eckart Stolle"
+description              : &description "Lab website"
 url                      : https://estolle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "estolle/estolle.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. rer. nat. E. Stolle"
   avatar           : "profile.png"
-  bio              : "Head of Section"
+  bio              : "Head of Section: Comparative Insect Genomics @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
   location         : "Bonn, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=p9qDNAYAAAAJ&view_op=list_works&pagesize=100"
-  email            :
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Eckart_Stolle"
   uri              :
   bitbucket        :
