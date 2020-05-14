@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stolle Lab"
-  avatar           : "./images/ek.biopic.png"
+  avatar           : "./images/ek.biopic.PNG"
   bio              : "Comparative Insect Genomics Section @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
   location         : "Bonn, Germany"
   employer         :
