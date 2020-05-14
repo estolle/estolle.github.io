@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Stolle Lab"
-  avatar           : "profile.png"
+  avatar           : "bio-photo-2.jpg"
   bio              : "Comparative Insect Genomics Section @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
   location         : "Bonn, Germany"
   employer         :
@@ -102,17 +102,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-7638-4061"
   pinterest        :
   publons          : "https://publons.com/researcher/491512/eckart-stolle/metrics/"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@EckartStolle"
+  twitter          : "EckartStolle"
   vine             :
   weibo            :
   xing             :
@@ -181,15 +181,15 @@ kramdown:
 
 # Collections
 collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
+  #research:
+  #  output: true
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
