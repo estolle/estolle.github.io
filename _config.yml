@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "E Stolle Comparative Genomics Lab @ ZFMK"
+title                    : "Comparative Insect Genomics"
 title_separator          : "-"
 name                     : &name "Eckart Stolle"
 description              : &description "Lab website"

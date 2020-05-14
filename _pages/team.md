@@ -3,11 +3,22 @@ layout: archive
 title: "Team"
 permalink: /team/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Team
+Current Lab member
 ======
+
+Dr. Eckart Stolle (Head of Section/Lab)
+
+Johanna Pieplow, Ph.D Student
+
+
+
+Alumni
+======
+Can (Istanbul, Turkey)
+Fan (Brazil)
+
+
