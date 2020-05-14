@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Biology, Martin-Luther-University Halle-Wittenberg, Germany, 2006
+* Dr. rer. nat. (Ph.D), Martin-Luther-University Halle-Wittenberg, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Group Leader (Head of Section)
+  * ZFMK, Bonn
+  * Section: Comparative Insect Genomics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2019: Research Assistant / Assistant Professor
+  * Martin-Luther-University Halle-Wittenberg, Germany
+  * Teaching and Research
+
+* 2014-2017: PostDoc
+  * Queen Mary University of London, UK
+  * Bioinformatics Lab of Dr. Yannick Wurm
+  * funded by a DAAD short term PostDoc grant and Marie Curie Intra-European Fellowship
+  * Origins and Evolution of the fire ant social chromosome
+
+* 2010-2014: Research Assistant
+  * BioSolutions GmbH, Halle, Germany
+  * Molecular Detection of Honeybee Viruses
+
+* 2006-2009: Research Assistant
+  * Martin-Luther-University Halle-Wittenberg, Germany
+  * PhD Research in the Molecular Ecology Lab of Prof. Dr. Dr. Robin F. A. Moritz
+  * Genome Evolution in Bees
 
 Publications
 ======
@@ -56,4 +59,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer reviewed at xyz (see Publons)
+
+Supervision
+======
+I have mentored xxx postgraduate and xxx undergraduate projects.
+
+* 1
+* 2
+* 3

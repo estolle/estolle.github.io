@@ -2,13 +2,14 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2017-mlu-teaching-1
+venue: "Martin-Luther-University Halle-Wittenberg, Institute of Biology"
+date: 2017-01-01
+location: "Halle, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergrad course, General Zoology
+Masterscourse Evolutionary Genetics
 
 Heading 1
 ======

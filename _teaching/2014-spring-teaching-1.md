@@ -2,19 +2,19 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2017-qmul-teaching-1
+venue: "Queen Mary University of London, SBCS"
+date: 2017-01-01
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Genome annotation with Afra
 
-Heading 1
+xxxxxx
 ======
 
-Heading 2
+xxxxxx
 ======
 
-Heading 3
+xxxxxx
 ======

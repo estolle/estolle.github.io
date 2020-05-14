@@ -1,22 +1,32 @@
+16 sloc) 351 Bytes
 # main links links
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Team"
+    url: /team/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Images"
+ #   url: /portfolio/
         
+  - title: "news"
+    url: /news/
+ 
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /posts/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
+  - title: "Teaching"
+    url: /teaching/
+
+  #- title: "Guide"
+  #  url: /markdown/
+  
+  #- title: "Talks"
+  #  url: /talks/
