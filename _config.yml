@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. rer. nat. E. Stolle"
-  avatar           : "profile.png"
+  avatar           : "/images/ek.biopic.jpg"
   bio              : "Head of Section: Comparative Insect Genomics @ Leibniz/ZFMK; entomology, evolutionary/ conservation/ developmental/ structural genomics"
   location         : "Bonn, Germany"
   employer         :
